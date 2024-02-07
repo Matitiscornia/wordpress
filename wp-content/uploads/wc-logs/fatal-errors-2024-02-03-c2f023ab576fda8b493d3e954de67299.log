@@ -1,0 +1,4 @@
+2024-02-03T17:04:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en D:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php en la línea 205
+
+2024-02-03T23:36:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en D:\xampp\htdocs\wordpress\wp-content\plugins\woolentor-addons\includes\addons\wb_customer_review.php en la línea 4
+
